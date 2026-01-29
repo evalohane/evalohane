@@ -14,8 +14,8 @@ jobs:
         with:
           github_user_name: evalohane
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/snake-pink-dark.svg?palette=dracula&color_snake=%23ff69b4&color_dots=%23444175,%236272a4,%23bd93f9,%23ff79c6,%23ffb86c
+
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
