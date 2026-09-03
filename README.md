@@ -1,3 +1,3 @@
 ## ⋅˚₊‧ ୨ eva ୧ ‧₊˚ ⋅
 
-- téc. sistemas ³
+- Téc. Desenvolvimento de Sistemas ³∕₃
